@@ -240,4 +240,4 @@ This repository serves as the official landing page for ACDSee Photo Studio. The
 **Get the most recent version of ACDSee Photo Studio today!**
 
 ---
-**Last updated:** 2026-09-23 16:39:51 UTC
+**Last updated:** 2026-09-23 20:07:19 UTC
